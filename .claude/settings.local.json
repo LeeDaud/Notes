@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "Bash(npx quartz build:*)",
+      "Bash(npm run quartz:*)",
+      "Bash(node quartz/bootstrap-cli.mjs build:*)"
+    ]
+  }
+}
