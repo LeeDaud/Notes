@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>李怂的数字花园</title>
+      <link>https://notes.licheng.website</link>
+      <description>最近的10条笔记 on 李怂的数字花园</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>思考</title>
+    <link>https://notes.licheng.website/notes/</link>
+    <guid>https://notes.licheng.website/notes/</guid>
+    <description><![CDATA[ 阅读笔记、个人反思、技术思考。 最近 长期主义在信息过载时代的实践 为什么我要开发个人用的 AI Agent 关于成长的思考 按标签 长期主义 AI 成长 阅读笔记 . ]]></description>
+    <pubDate>Fri, 16 Jan 2026 05:41:42 GMT</pubDate>
+  </item><item>
+    <title>项目</title>
+    <link>https://notes.licheng.website/projects/</link>
+    <guid>https://notes.licheng.website/projects/</guid>
+    <description><![CDATA[ 我构建的工具和项目。每个项目都是一次学习和实践。 已上线 长寿习惯 - 习惯追踪与健康管理 日迹 - 个人日记与时间记录 Chrome 计时插件 - 浏览器时间追踪 开发中 暂无 想法 记录中…. ]]></description>
+    <pubDate>Fri, 16 Jan 2026 05:41:42 GMT</pubDate>
+  </item><item>
+    <title>李怂的数字花园</title>
+    <link>https://notes.licheng.website/</link>
+    <guid>https://notes.licheng.website/</guid>
+    <description><![CDATA[ 欢迎来到我的数字花园。这里记录我的项目、思考和成长轨迹。 导航 项目 - 我构建的工具和项目 思考 - 阅读笔记与个人反思 现在 - 我当前在做什么 最近更新 长寿习惯 - 面向长寿爱好者的习惯教练 日迹 - 简洁的个人日记工具 长期主义在信息过载时代的实践 关于我 我是李怂，一个长期主义者、技术探索者、持续写作者。 主站：licheng.website 公众号：李怂 光而不耀，静水流深 . ]]></description>
+    <pubDate>Fri, 16 Jan 2026 05:41:42 GMT</pubDate>
+  </item><item>
+    <title>Now</title>
+    <link>https://notes.licheng.website/now</link>
+    <guid>https://notes.licheng.website/now</guid>
+    <description><![CDATA[ 我当前正在做什么 ]]></description>
+    <pubDate>Wed, 15 Jan 2025 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>长期主义在信息过载时代的实践</title>
+    <link>https://notes.licheng.website/notes/long-term-thinking</link>
+    <guid>https://notes.licheng.website/notes/long-term-thinking</guid>
+    <description><![CDATA[ 当每天都有新的热点和机会，如何坚持长期主义？ ]]></description>
+    <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>长寿习惯</title>
+    <link>https://notes.licheng.website/projects/longevity-habits</link>
+    <guid>https://notes.licheng.website/projects/longevity-habits</guid>
+    <description><![CDATA[ 面向长寿爱好者的数字习惯教练，提供洞察、任务打卡与可视化进度追踪 ]]></description>
+    <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>为什么我要开发个人用的 AI Agent</title>
+    <link>https://notes.licheng.website/notes/ai-agent-personal</link>
+    <guid>https://notes.licheng.website/notes/ai-agent-personal</guid>
+    <description><![CDATA[ 市面上有那么多 AI 工具，为什么还要自己做？ ]]></description>
+    <pubDate>Sat, 04 Jan 2025 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>日迹</title>
+    <link>https://notes.licheng.website/projects/riji</link>
+    <guid>https://notes.licheng.website/projects/riji</guid>
+    <description><![CDATA[ 简洁的个人日记与时间记录工具 ]]></description>
+    <pubDate>Thu, 19 Dec 2024 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>关于成长的思考</title>
+    <link>https://notes.licheng.website/notes/growth-not-perfection</link>
+    <guid>https://notes.licheng.website/notes/growth-not-perfection</guid>
+    <description><![CDATA[ 真正的成长不是变得完美，而是学会与不完美共舞 ]]></description>
+    <pubDate>Sat, 14 Dec 2024 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>Chrome 计时插件</title>
+    <link>https://notes.licheng.website/projects/chrome-timer</link>
+    <guid>https://notes.licheng.website/projects/chrome-timer</guid>
+    <description><![CDATA[ 浏览器标签页计时器，追踪你在不同网站的时间消耗 ]]></description>
+    <pubDate>Thu, 14 Nov 2024 16:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
