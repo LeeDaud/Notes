@@ -24,9 +24,12 @@ Wealth/
 李怂.md
 *.canvas
 
-# Quartz 构建产物
-public/
+# Quartz 构建产物（小写 public 是构建输出目录）
+/public/
 .quartz-cache/
+
+# 保留 Public 目录（大写，内容源）
+!Public/
 
 # Node
 node_modules/

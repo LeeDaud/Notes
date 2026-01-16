@@ -1,0 +1,38 @@
+---
+title: Now
+description: 我当前正在做什么
+date: 2025-01-16
+---
+
+*最后更新：2025-01-16*
+
+---
+
+## 正在做
+
+- 开发个人用 AI Agent，提升工作和学习效率
+- 完善 [[projects/longevity-habits|长寿习惯]] 项目，增加数据导出功能
+- 筹备一个线上交流项目，连接青少年与更大的世界
+- 升级个人主页，从展示页变成系统入口
+
+## 正在读
+
+- 《传习录》- 深入理解阳明心学
+- 《The Mom Test》- 学习如何做用户访谈
+- 各种 AI Agent 相关的技术文章
+
+## 正在思考
+
+- 如何让 AI 成为真正的个人助手而非一次性工具
+- [[notes/long-term-thinking|长期主义在信息过载时代的实践方式]]
+- 个人系统的设计：工具、流程、习惯如何协同
+
+## 最近完成
+
+- [[projects/longevity-habits|长寿习惯]] 稳定运行中
+- [[projects/riji|日迹]] 基础功能完成
+- 个人主页从展示页升级为系统入口
+
+---
+
+灵感来自 [nownownow.com](https://nownownow.com/about)
