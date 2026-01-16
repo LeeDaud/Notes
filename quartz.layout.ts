@@ -4,10 +4,11 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       "主站": "https://licheng.website",
-      "GitHub": "https://github.com/licheng",
+      "GitHub": "https://github.com/LeeDaud",
     },
   }),
 }
@@ -31,6 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+  afterBody: [],
 }
 
 export const defaultListPageLayout: PageLayout = {
@@ -43,4 +45,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
+  afterBody: [],
 }
