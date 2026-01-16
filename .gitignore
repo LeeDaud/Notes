@@ -1,0 +1,38 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# 私人笔记（不发布）
+000备忘/
+000附件/
+000模板/
+Chats/
+Excalidraw/
+Movies/
+Novel/
+Wealth/
+公众号/
+教程/
+看板/
+课程复习/
+人生周报/
+日记&周记/
+讨论分享/
+阅读思考/
+自研/
+草稿.md
+李怂.md
+*.canvas
+
+# Quartz 构建产物
+public/
+.quartz-cache/
+
+# Node
+node_modules/
+.npm/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
