@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 /**
  * Quartz 4.0 配置文件
  * 站点：notes.licheng.website
- * 内容目录：Public/
+ * 内容目录：content/
  */
 const config: QuartzConfig = {
   configuration: {
