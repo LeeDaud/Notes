@@ -10,7 +10,6 @@ date: 2025-01-15
 difficulty: beginner
 estimated_time: 30min
 ---
-
 ## 什么是数字花园？
 
 数字花园是一种介于博客和 Wiki 之间的内容形式。它不强调时间顺序，而是强调知识之间的连接。你可以随时更新、修改、重构你的笔记。
@@ -103,5 +102,3 @@ npx quartz build --serve
 - 配置 GitHub Actions 自动部署
 
 ---
-
-> 相关教程：待添加

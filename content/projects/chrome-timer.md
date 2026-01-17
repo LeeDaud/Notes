@@ -3,8 +3,8 @@ title: Chrome 计时插件
 description: 浏览器标签页计时器，追踪你在不同网站的时间消耗
 tags:
   - project
-  - Chrome Extension
   - 时间管理
+  - "#chrome"
 status: shipped
 date: 2024-06-01
 updated: 2024-11-15
