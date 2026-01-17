@@ -25,4 +25,4 @@ title: 李怂的数字花园
 - 主站：[licheng.website](https://licheng.website)
 - 公众号：李怂
 
-> 光而不耀，静水流深
+> 光而不耀，静水流深。
