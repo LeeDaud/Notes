@@ -6,9 +6,9 @@ title: 思考
 
 ## 最近
 
-- [[long-term-thinking|长期主义在信息过载时代的实践]]
-- [[ai-agent-personal|为什么我要开发个人用的 AI Agent]]
-- [[growth-not-perfection|关于成长的思考]]
+- [[长期主义|长期主义在信息过载时代的实践]]
+- [[个人AI-AGENT|为什么我要开发个人用的 AI Agent]]
+- [[关于真正的成长|关于成长的思考]]
 
 ## 按标签
 

@@ -47,4 +47,4 @@ links:
 ## 链接
 
 - 🌐 [在线访问](https://longevityhabits.licheng.website)
-- 💻 [GitHub 源码](https://github.com/licheng/longevity-habits)
+- 💻 [GitHub 源码](https://github.com/LeeDaud/Longevity-Habits)

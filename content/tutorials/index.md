@@ -6,7 +6,7 @@ title: 教程
 
 ## 最近
 
-- [[obsidian-quartz-setup|用 Obsidian + Quartz 搭建数字花园]]
+- [[002 obsidian-quartz-setup|用 Obsidian + Quartz 搭建数字花园]]
 
 ## 按分类
 

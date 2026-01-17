@@ -26,9 +26,9 @@ links:
 
 1. **本地存储方案**：IndexedDB 比 localStorage 更适合存储大量结构化数据
 2. **日记产品核心**：写作体验比功能堆砌更重要
-3. **极简设计**：Less is more，功能克制反而带来更好的体验
+3. **极简设计**：Less is more，少即是多，功能克制反而带来更好的体验
 
 ## 链接
 
-- 🌐 [在线访问](https://riji.licheng.website)
-- 💻 [GitHub 源码](https://github.com/licheng/riji)
+- 🌐 [在线访问](https://timelinejournal.licheng.website)
+- 💻 [GitHub 源码](https://github.com/LeeDaud/Timeline-Journal)
