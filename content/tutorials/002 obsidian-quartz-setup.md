@@ -4,11 +4,8 @@ description: 从零开始，将 Obsidian 笔记发布为在线数字花园的完
 tags:
   - Obsidian
   - Quartz
-  - 数字花园
   - 教程
 date: 2026-01-17
-difficulty: beginner
-estimated_time: 30min
 ---
 ## 什么是数字花园？
 
