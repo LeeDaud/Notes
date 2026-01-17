@@ -8,10 +8,12 @@ title: 李怂的数字花园
 
 - [[projects/index|项目]] - 我构建的工具和项目
 - [[notes/index|思考]] - 阅读笔记与个人反思
+- [[tutorials/index|教程]] - 实用技术教程
 - [[now|现在]] - 我当前在做什么
 
 ## 最近更新
 
+- [[tutorials/obsidian-quartz-setup|用 Obsidian + Quartz 搭建数字花园]] - 完整教程
 - [[projects/longevity-habits|长寿习惯]] - 面向长寿爱好者的习惯教练
 - [[projects/riji|日迹]] - 简洁的个人日记工具
 - [[notes/long-term-thinking|长期主义在信息过载时代的实践]]
