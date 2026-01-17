@@ -6,8 +6,8 @@ tags:
   - 时间管理
   - "#chrome"
 status: shipped
-date: 2024-06-01
-updated: 2024-11-15
+date: 2026-01-13
+updated: 2026-01-13
 links:
   github: https://github.com/licheng/chrome-timer
 ---

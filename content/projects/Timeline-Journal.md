@@ -1,13 +1,13 @@
 ---
-title: 日迹
+title: 时间轴日记
 description: 简洁的个人日记与时间记录工具
 tags:
   - project
   - 日记
   - 时间管理
 status: shipped
-date: 2024-08-01
-updated: 2024-12-20
+date: 2025-12-15
+updated: 2026-01-15
 links:
   site: https://riji.licheng.website
   github: https://github.com/licheng/riji

@@ -7,8 +7,8 @@ tags:
   - TypeScript
   - 健康
 status: shipped
-date: 2024-10-01
-updated: 2025-01-10
+date: 2025-10-15
+updated: 2025-10-15
 links:
   site: https://longevityhabits.licheng.website
   github: https://github.com/licheng/longevity-habits
