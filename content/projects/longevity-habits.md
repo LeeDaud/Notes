@@ -1,5 +1,5 @@
 ---
-title: 长寿习惯
+title: Longevity-Habits
 description: 面向长寿爱好者的数字习惯教练，提供洞察、任务打卡与可视化进度追踪
 tags:
   - project
