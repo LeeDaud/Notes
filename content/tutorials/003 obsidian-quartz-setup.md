@@ -1,5 +1,5 @@
 ---
-title: 用 Obsidian + Quartz 搭建数字花园
+title: obsidian-quartz-setup
 description: 从零开始，将 Obsidian 笔记发布为在线数字花园的完整教程
 tags:
   - Obsidian
