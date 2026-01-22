@@ -1,5 +1,5 @@
 ---
-title: obsidian-quartz-setup
+title: 003 obsidian-quartz-setup
 description: 从零开始，将 Obsidian 笔记发布为在线数字花园的完整教程
 tags:
   - Obsidian
