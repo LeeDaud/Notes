@@ -13,7 +13,7 @@ title: 李怂的数字花园
 
 ## 最近更新
 
-- [[002 obsidian-quartz-setup|用 Obsidian + Quartz 搭建数字花园]] - 完整教程
+- [[003 obsidian-quartz-setup|用 Obsidian + Quartz 搭建数字花园]] - 完整教程
 - [[Longevity-Habits|长寿习惯]] - 面向长寿爱好者的习惯教练
 - [[Timeline-Journal|时间轴日记]] - 简洁的个人日记工具
 - [[长期主义|长期主义在信息过载时代的实践]]

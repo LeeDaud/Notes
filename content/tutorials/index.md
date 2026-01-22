@@ -6,5 +6,5 @@ title: 教程
 
 ## 最近
 
-- [[002 obsidian-quartz-setup|002 用 Obsidian + Quartz 搭建数字花园]]
+- [[003 obsidian-quartz-setup|002 用 Obsidian + Quartz 搭建数字花园]]
 - [[001 个人独享VPS搭建|001 个人独享VPS搭建]]
